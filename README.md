@@ -161,17 +161,17 @@
     <section class="works-section" id="works">
         <div class="section-header">
             <h2>معرض <span>أعمالنا</span></h2>
-            <p>نستعرض لكم 8 من أبرز مشاريعنا المتميزة</p>
+            <p>ابداع يتجاوز الحدود...شاهد ملامح من رحلتنا</p>
         </div>
 
         <div class="works-grid">
-            <div class="work-item"><img src="9.JPEG" alt="مشروع 9"></div>
-            <div class="work-item"><img src="8.JPEG" alt="مشروع 8"></div>
-            <div class="work-item"><img src="11.JPEG" alt="مشروع 11"></div>
-            <div class="work-item"><img src="10.JPEG" alt="مشروع 10"></div>
-            <div class="work-item"><img src="76.JPEG" alt="مشروع 76"></div>
-            <div class="work-item"><img src="677.JPEG" alt="مشروع 677"></div>
-            <div class="work-item"><img src="67.JPEG" alt="مشروع 67"></div>
+            <div class="work-item"><img src="9.jpeg" alt="مشروع 9"></div>
+            <div class="work-item"><img src="8.jpeg" alt="مشروع 8"></div>
+            <div class="work-item"><img src="11.jpeg" alt="مشروع 11"></div>
+            <div class="work-item"><img src="10.jpeg" alt="مشروع 10"></div>
+            <div class="work-item"><img src="76.jpeg" alt="مشروع 76"></div>
+            <div class="work-item"><img src="677.jpeg" alt="مشروع 677"></div>
+            <div class="work-item"><img src="67.jpeg" alt="مشروع 67"></div>
             <div class="work-item"><img src="12.jpeg" alt="مشروع 12"></div>
         </div>
     </section>
