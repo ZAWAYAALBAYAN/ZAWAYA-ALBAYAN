@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+0<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>زوايا البيان | إبداع يتجاوز الحدود</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
+    <style>0
         :root {
             --primary: #D4AF37; 
             --primary-light: #f1d279;
@@ -190,7 +190,7 @@
             </div>
         </div>
         <div style="text-align:center; padding-top:40px; border-top:1px solid #222; margin-top:40px; color:#666;">
-            &copy; 2024 مؤسسة زوايا البيان للدعاية والإعلان - جميع الحقوق محفوظة
+            &copy; 2026 مؤسسة زوايا البيان للدعاية والإعلان - جميع الحقوق محفوظة
         </div>
     </footer>
 
